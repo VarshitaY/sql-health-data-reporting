@@ -55,26 +55,22 @@ The aim is to simplify complex health data into clear, evidence-backed insights 
 
 ## 🛠️ Project Structure
 
+```
 sql-health-data-reporting/
-│
 ├── data/
-│ └── cdc_data.csv # Raw dataset 
-│
+│   └── cdc_data.csv                   # Raw dataset
 ├── schema/
-│ └── create_table.sql # MySQL schema definition
-│
+│   └── create_table.sql              # MySQL schema definition
 ├── queries/
-│ ├── 01_chronic_trend.sql # Time-based trends query
-│ ├── 02_gender_disparity.sql # Gender-based insights query
-│ └── 03_state_priority.sql # State-level ranking query
-│
+│   ├── 01_chronic_trend.sql          # Time-based trends query
+│   ├── 02_gender_disparity.sql       # Gender-based insights query
+│   └── 03_state_priority.sql         # State-level ranking query
 ├── outputs/
-│ ├── chronic_trends.csv
-│ ├── gender_disparity.csv
-│ └── state_priorities.csv
-│
-└── README.md # You're here!
-
+│   ├── chronic_trends.csv
+│   ├── gender_disparity.csv
+│   └── state_priorities.csv
+└── README.md                         # You're here!
+```
 
 ---
 
