@@ -60,7 +60,7 @@ sql-health-data-reporting/
 ├── data/
 │   └── cdc_data.csv                   # Raw dataset
 ├── schema/
-│   └── create_table.sql              # MySQL schema definition
+│   └── full_query.sql              # MySQL schema definition
 ├── queries/
 │   ├── 01_chronic_trend.sql          # Time-based trends query
 │   ├── 02_gender_disparity.sql       # Gender-based insights query
