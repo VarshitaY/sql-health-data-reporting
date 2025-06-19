@@ -99,6 +99,6 @@ Still learning. Always improving.
 **Varshita Yeddula**  
 Data / BI Analyst (Health-Tech Focus)  
 
-📧 [Email me](varshitayeddula@gmail.com)  
+📧 [varshitayeddula@gmail.com](mailto:varshitayeddula@gmail.com) 
 🔗 [LinkedIn](https://www.linkedin.com/in/varshita-reddy-yeddula-45102b254)
 
