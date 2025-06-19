@@ -1,0 +1,35 @@
+Gender,Topic,RecordCount
+Female,Alcohol,2008
+Male,Alcohol,2008
+Female,Arthritis,1650
+Male,Arthritis,1650
+Female,Asthma,908
+Male,Asthma,908
+Female,Cancer,2410
+Male,Cancer,2410
+Female,"Cardiovascular Disease",2752
+Male,"Cardiovascular Disease",2752
+Female,"Chronic Obstructive Pulmonary Disease",2642
+Male,"Chronic Obstructive Pulmonary Disease",2642
+Female,"Cognitive Health and Caregiving",880
+Male,"Cognitive Health and Caregiving",880
+Female,Diabetes,1376
+Male,Diabetes,1376
+Female,Disability,440
+Male,Disability,440
+Female,"Health Status",2304
+Male,"Health Status",2304
+Female,Immunization,1760
+Male,Immunization,1760
+Female,"Mental Health",1375
+Male,"Mental Health",1375
+Female,"Nutrition, Physical Activity, and Weight Status",2138
+Male,"Nutrition, Physical Activity, and Weight Status",2138
+Female,"Oral Health",1100
+Male,"Oral Health",1100
+Female,Sleep,434
+Male,Sleep,434
+Female,"Social Determinants of Health",1522
+Male,"Social Determinants of Health",1522
+Female,Tobacco,1210
+Male,Tobacco,1210
